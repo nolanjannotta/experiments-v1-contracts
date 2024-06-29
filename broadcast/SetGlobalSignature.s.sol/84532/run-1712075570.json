@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "hash": "0xbd2dcfb909a8056383dc988395a61f128f169e972ae5cd842fca8ea6c05fff88",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x0E2c455790FFdc76A2838cAaEcc85b106e604DF1",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0x8f088eca0009ad61fb94a6d7e9a5d7a087c08564",
+        "to": "0x0e2c455790ffdc76a2838caaecc85b106e604df1",
+        "gas": "0xa7f8",
+        "value": "0x0",
+        "data": "0xd5a87eab00000000000000000000000000000000000000000000000000000000000f4261",
+        "nonce": "0x3c4",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [
+    {
+      "transactionHash": "0xbd2dcfb909a8056383dc988395a61f128f169e972ae5cd842fca8ea6c05fff88",
+      "transactionIndex": "0x1",
+      "blockHash": "0xb96002d71a73d325a68b2f7b1b02b00b3140ee8392c318698b3866b9ee698e4f",
+      "blockNumber": "0x7c6a6f",
+      "from": "0x8f088ecA0009AD61Fb94a6D7E9A5D7A087c08564",
+      "to": "0x0E2c455790FFdc76A2838cAaEcc85b106e604DF1",
+      "cumulativeGasUsed": "0x124ff",
+      "gasUsed": "0x799c",
+      "contractAddress": null,
+      "logs": [],
+      "status": "0x1",
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x2",
+      "effectiveGasPrice": "0xb2d05f2f"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1712075570,
+  "chain": 84532,
+  "multi": false,
+  "commit": "3e641a5"
+}
